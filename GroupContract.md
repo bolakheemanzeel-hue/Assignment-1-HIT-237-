@@ -28,6 +28,7 @@ All work must comply with university academic integrity policies. Any AI-generat
 Section 2: Provisional Milestones and Checkpoints
 
 Milestones
+
 Week 3: Finalise project scope and system requirements 
 
 Week 5: Complete system design (architecture, database, UI planning)
@@ -46,19 +47,29 @@ Anang Yume – Testing, Documentation, and Quality Assurance
 
 Internal Checkpoints
 Weekly meetings via Teams
+
 Mid-project review in Week 7
+
 Final internal review before submission
+
 Integration Points
+
 Weekly code merging through GitHub
+
 Continuous integration testing after each major feature
+
 Final system integration before testing phase
 
 Contribution Agreement
+
 All members agree to actively participate, communicate effectively, and complete assigned tasks responsibly. Contributions will be tracked through GitHub commits and team discussions on Microsoft Teams.
 
 Group Members
 
 Irab Baral
+
 Manjil Bolakhe
+
 Karan Thapa
+
 Anang Yume

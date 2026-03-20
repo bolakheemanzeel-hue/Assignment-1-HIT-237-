@@ -23,5 +23,5 @@ Conflict Resolution
 Any conflicts will first be discussed within the group in a respectful manner. If a resolution cannot be reached, the issue will be escalated to the lecturer or tutor for further guidance.
 
 Academic Integrity
-All work must comply with university academic integrity policies. Any AI-generated code or content must be reviewed, understood, and appropriately acknowledged. All group members must understand the final submission.
+All work must comply with university academic integrity policies. Any AI-generated code or content must be reviewed, understood, and appropriately acknowledged. All group members must understand the final submissions.
 

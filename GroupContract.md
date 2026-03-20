@@ -43,7 +43,7 @@ Task Breakdown
 Irab Baral – Frontend Development (UI/UX design)
 Manjil Bolakhe – Backend Development
 Karan Thapa – Database Design and Integration
-Anang Yume – Testing, Documentation, and Quality Assurance
+Anang Suave Yume – Testing, Documentation, and Quality Assurance
 
 Internal Checkpoints
 Weekly meetings via Teams
@@ -72,4 +72,4 @@ Manjil Bolakhe
 
 Karan Thapa
 
-Anang Yume
+Anang Suave Yume

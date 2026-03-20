@@ -72,4 +72,4 @@ Manjil Bolakhe
 
 Karan Thapa
 
-Anang Suave Yume
+Anang Suave Yume.

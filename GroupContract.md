@@ -28,10 +28,14 @@ All work must comply with university academic integrity policies. Any AI-generat
 Section 2: Provisional Milestones and Checkpoints
 
 Milestones
-Week 3: Finalise project scope and system requirements
+Week 3: Finalise project scope and system requirements 
+
 Week 5: Complete system design (architecture, database, UI planning)
+
 Week 7: Develop initial prototype
+
 Week 9: System testing and debugging
+
 Week 11: Final integration and documentation
 
 Task Breakdown
